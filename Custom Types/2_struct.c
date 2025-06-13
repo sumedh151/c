@@ -1,4 +1,4 @@
-// exact same as 02.cpp
+// exact same as 2_struct.cpp
 #include <stdio.h>
 
 typedef struct {
